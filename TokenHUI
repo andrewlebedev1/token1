@@ -1,5 +1,5 @@
 soliditypragma solidity ^0.8.0;contract TokenContract 
-{ string public constant name = "MyToken"; string public constant symbol = "MTK"; 
+{ string public constant name = "TokenHUI"; string public constant symbol = "HUI"; 
 uint8 public constant decimals = 18; 
 uint256 public totalSupply = 1000000000000000000000000; 
 mapping (address => uint256) public balanceOf; 
